@@ -1,3 +1,8 @@
 .main-container {
   margin-top: 30px;
 }
+
+.textfield {
+  width: 45%;
+  margin: 10px 10px;
+}
